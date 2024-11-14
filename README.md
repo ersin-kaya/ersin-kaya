@@ -9,7 +9,7 @@ I am learning how to build web applications with popular and in-demand technolog
 ## 💻 Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,postman,dotnet,cs,react,ts,js,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=git,postman,dotnet,cs,react,ts,js,html,css,sass,bootstrap,tailwind" />
   </a>
 
    ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
