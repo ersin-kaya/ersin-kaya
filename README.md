@@ -16,10 +16,8 @@ I am learning how to build web applications with popular and in-demand technolog
    ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 </p>
 
-<!--
 ## 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ersin-kaya&theme=swift&hide_border=true" height="193" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ersin-kaya&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="193" alt="streak graph"  />  
 </div>
--->
